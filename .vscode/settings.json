@@ -1,0 +1,5 @@
+{
+    // Black 포맷터가 pyproject.toml을 인식하도록 설정
+    "black-formatter.cwd": "${workspaceFolder}",
+}
+
