@@ -30,22 +30,7 @@
                 // Python 파일 실행 설정
                 "code-runner.executorMap": {
                     "python": "python3 -u"
-                },
-                // Pylance 설정: 엄격한 타입 체킹
-                "python.analysis.typeCheckingMode": "strict",
-                "python.analysis.autoImportCompletions": true,
-                "python.analysis.diagnosticMode": "workspace",
-                "python.analysis.stubPath": "./typings",
-                // 부분 타입 힌트 및 사용되지 않는 변수 체크
-                "python.analysis.diagnosticSeverityOverrides": {
-                    "reportMissingParameterType": "error",
-                    "reportMissingTypeArgument": "error",
-                    "reportUnknownParameterType": "error",
-                    "reportUnusedVariable": "error"
-                },
-                // mypy 타입 체커 설정: 에디터에서 실시간 타입 체킹
-                "mypy-type-checker.enabled": true,
-                "mypy-type-checker.reportingScope": "workspace"
+                }
             }
         }
     },
