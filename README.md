@@ -216,21 +216,19 @@ GitHub Codespaces는 매달 무료 사용 시간이 정해져 있습니다. 사�
 
    ![터미널 토글 선택](assets/imgs/open_terminal.png)
 
-3. **열린 터미널**: 터미널이 열립니다.
-
-   ![새로 열린 터미널](assets/imgs/plus_button.png)
-
-4. **새 터미널 만들기**: 새 터미널을 만듭니다.
+3. **새 터미널 만들기**: 새 터미널을 만듭니다.
 
    ![새 터미널 만들기](assets/imgs/new_terminal.png)
 
-5. **Git Flow init 및 업로드**
+4. **Git Flow init 및 업로드**
    - `git flow init`을 실행하고, 나오는 항목은 그냥 엔터로 넘깁니다.
    - 이후 업로드합니다.
 
    ![새 터미널 만들기](assets/imgs/git_flow_init.png)
 
-6. (참고) 변경 사항
+   ![새 터미널 만들기](assets/imgs/git_flow_init_2.png)
+
+5. (참고) 변경 사항
    - 이 명령으로 인해, GitHub 저장소로 가보면, 새로운 Branch가 만들어져 있고,
    ![새 Branch](assets/imgs/new_branch.png)
    - Codespace도 On other branches로 옮겨져 있습니다.
