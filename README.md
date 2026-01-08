@@ -12,7 +12,13 @@ GitHub Codespaces를 무료로 더 많이 사용하기 위해 GitHub 교육 계�
 
 2. **교육 혜택 확인**: 설정 페이지에서 **[Billing and licensing]** > **[Education benefits]** 메뉴를 찾아 교육 혜택을 신청합니다. 학교 이메일 주소를 사용하여 인증을 완료하면 교육 계정이 활성화됩니다.
 
+   인증이 된 상태
+
    ![GitHub 교육 계정 활성화 2단계](assets/imgs/github_edu_2.png)
+
+   인증이 되지 않은 상태
+
+   ![GitHub 교육 계정 활성화 2단계](assets/imgs/github_edu_2_1.png)
 
 > **참고**: 교육 계정 인증은 보통 몇 시간에서 며칠 정도 소요될 수 있습니다. 인증이 완료되면 Codespaces 사용량이 증가합니다.
 
